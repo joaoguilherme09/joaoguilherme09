@@ -53,9 +53,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaoguilherme09&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaoguilherme09&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" height="150" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilherme09&layout=compact&theme=onedark" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaoguilherme09&layout=compact&theme=onedark" height="150" />
 </div>
 ###
 

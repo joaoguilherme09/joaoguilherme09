@@ -7,7 +7,7 @@
 ###
 <div align="center">
 
-  <!-- Linguagens -->
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
   <img width="12"/>
 
@@ -47,12 +47,8 @@
 
   <!-- Back-end -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
-  <img width="12"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" alt="Flask"/>
-  <img width="12"/>
-
-  <!-- Banco de Dados -->
+  <img width="12"/> 
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
   <img width="12"/>
 
@@ -62,7 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="50" alt="Supabase"/>
   <img width="12"/>
 
-  <!-- Ferramentas -->
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
   <img width="12"/>
 
@@ -72,7 +68,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/>
   <img width="12"/>
 
-  <!-- Hospedagem -->
+  
   <img src="https://cdn.simpleicons.org/vercel/white" height="50" alt="Vercel"/>
   <img width="12"/>
 

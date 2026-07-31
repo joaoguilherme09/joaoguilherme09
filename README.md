@@ -75,9 +75,6 @@
   <img src="https://cdn.simpleicons.org/render/46E3B7" height="50" alt="Render"/>
   <img width="12"/>
 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/uptimerobot.svg" height="50" alt="UptimeRobot"/>
-  <img width="12"/>
-
   <img src="https://cdn.simpleicons.org/infinityfree/0099FF" height="50" alt="InfinityFree"/>
 
 </div>

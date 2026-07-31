@@ -69,13 +69,13 @@
   <img width="12"/>
 
   
-  <img src="https://cdn.simpleicons.org/vercel/white" height="50" alt="Vercel"/>
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="50" alt="Vercel"/>
   <img width="12"/>
 
   <img src="https://cdn.simpleicons.org/render/46E3B7" height="50" alt="Render"/>
   <img width="12"/>
 
-  <img src="https://cdn.simpleicons.org/uptimerobot/6CD16C" height="50" alt="UptimeRobot"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/uptimerobot.svg" height="50" alt="UptimeRobot"/>
   <img width="12"/>
 
   <img src="https://cdn.simpleicons.org/infinityfree/0099FF" height="50" alt="InfinityFree"/>

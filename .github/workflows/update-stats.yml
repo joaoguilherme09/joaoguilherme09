@@ -1,27 +1,22 @@
 name: Update README stats
-
 on:
   schedule:
     - cron: "0 3 * * *"   # roda todo dia às 03:00 UTC
   workflow_dispatch:        # permite rodar manualmente pelo botão "Run workflow"
-
 permissions:
   contents: write
-
 jobs:
   stats:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - name: Gerar stats.svg
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: username=joaoguilherme09&show_icons=true&include_all_commits=true&count_private=true&theme=dracula
           path: stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
+          token: ${{ secrets.STATS_TOKEN }}
       - name: Publicar na branch stats-output
         run: |
           git config user.name "github-actions"
@@ -31,12 +26,10 @@ jobs:
           git add stats.svg
           git commit -m "Update stats.svg"
           git push -f origin stats-output
-
   languages:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - name: Gerar languages.svg
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -44,7 +37,6 @@ jobs:
           options: username=joaoguilherme09&layout=compact&card_width=320&langs_count=5&theme=dracula
           path: languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Publicar na branch languages-output
         run: |
           git config user.name "github-actions"

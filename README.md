@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Tenho 17 anos, sou estudante do 3ºano do ensino médio concomitante com técnico em informática. Sou apaixonado por tecnologia desde criança e busco constantemente aprender novas ferramentas e aprimorar minhas habilidades para evoluir na área da tecnologia.</h4>
+<h4 align="center">Tenho 17 anos, sou estudante do 3ºano do ensino médio concomitante com técnico em informática. Atuamente trabalho como desenvolvedor web júnior.</h4>
 
 ###
 <div align="center">
